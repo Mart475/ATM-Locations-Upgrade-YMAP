@@ -1,29 +1,26 @@
+![alt text](https://forum.cfx.re/uploads/default/original/4X/4/a/5/4a56f54fdfafe376de05f7a85cf7bb5d91f08e14.png "Banner")
+
+---
+
 **[Release] [YMAP] ATM Locations Upgrade.**
 
 ---
 
-The ATM Locations Upgrade is a small upgrade of all the ATM locations around San Andreas which adds around 30+ new props. It was created in Codewalker, with careful decisions on where the ATM's were placed. This YMAP is super simple, and adds plenty of life back into the state.
-
+*Ever needed an ATM but there wasn’t one around? This simple creation solves that, we’ve installed many around the State so you’ll always have close access to an ATM.*
 
 ---
 
 **Installation.**
 
-* 1: Download ATM Locations Upgrade YMAP.
+* Download ATM Locations Upgrade YMAP.
 
-* 2: Un-zip the contents of the zip file.
+* Un-zip the contents of the zip file.
 
-* 3: Insert into the resources folder (FiveM Server).
+* Insert into the resources folder (FiveM Server).
 
-* 4: Start the resource (start atmlocationsupgrade).
+* Start the resource (start atmlocationsupgrade).
 
-* 5: You have successfully installed this YMAP.
-
----
-
-**Warning.**
-
-This YMAP is good and doesn't need a warning.
+* You have successfully installed this YMAP.
 
 ---
 
@@ -38,15 +35,3 @@ This YMAP is good and doesn't need a warning.
 ![alt text](https://forum.cfx.re/uploads/default/original/4X/5/a/7/5a777aa00362ada100c22194ae7999e081448a7c.jpeg "4")
 
 ![alt text](https://forum.cfx.re/uploads/default/original/4X/5/4/c/54cbcaa326f1a046c84599ea56727392ce03d7d4.jpeg "5")
-
----
-
-**Download.**
-
-[ATM-Locations-Upgrade-YMAP - Download.](https://github.com/Mart475/ATM-Locations-Upgrade-YMAP)
-
----
-
-**FiveM Forum.**
-
-[FiveM Forum Link.](https://forum.cfx.re/t/release-ymap-atm-locations-upgrade/1254238)
