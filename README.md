@@ -6,6 +6,10 @@
 
 ---
 
+**Mart Modifications Discord: https://discord.gg/RGuhx6b**
+
+---
+
 *Ever needed an ATM but there wasn’t one around? This simple creation solves that, we’ve installed many around the State so you’ll always have close access to an ATM.*
 
 ---
